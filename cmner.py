@@ -40,7 +40,7 @@ st.markdown('Relation Extraction is a task in Natural Language Processing (NLP) 
             'By identifying and extracting relations between entities, it aids in building structured knowledge bases, extracting valuable information from large-scale textual data, and supporting advanced semantic understanding and reasoning.'
             )
 
-st.markdown("## RE for chinese music domain")
+st.markdown("## RE for Chinese music domain")
 st.markdown('In the task of relation extraction for the Chinese music domain, we can focus on specific relationship types and entities.'
             'RE has extensive applications in the Chinese music domain, including constructing music knowledge graphs, recommending related songs and artists, analyzing music social networks, and more. '
             'By accurately extracting relations between entities, it can provide deeper insights and information for research and applications in the field of music.')
